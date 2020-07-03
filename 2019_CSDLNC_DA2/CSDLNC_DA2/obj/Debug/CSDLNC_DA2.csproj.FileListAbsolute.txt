@@ -1,0 +1,12 @@
+C:\Users\chane\OneDrive\Desktop\[CSDL-NC]W6 - 24-11\CSDLNC_DA2\CSDLNC_DA2\bin\Debug\CSDLNC_DA2.exe.config
+C:\Users\chane\OneDrive\Desktop\[CSDL-NC]W6 - 24-11\CSDLNC_DA2\CSDLNC_DA2\bin\Debug\CSDLNC_DA2.exe
+C:\Users\chane\OneDrive\Desktop\[CSDL-NC]W6 - 24-11\CSDLNC_DA2\CSDLNC_DA2\bin\Debug\CSDLNC_DA2.pdb
+C:\Users\chane\OneDrive\Desktop\[CSDL-NC]W6 - 24-11\CSDLNC_DA2\CSDLNC_DA2\obj\Debug\CSDLNC_DA2.csprojAssemblyReference.cache
+C:\Users\chane\OneDrive\Desktop\[CSDL-NC]W6 - 24-11\CSDLNC_DA2\CSDLNC_DA2\obj\Debug\CSDLNC_DA2.ChonMuaHang.resources
+C:\Users\chane\OneDrive\Desktop\[CSDL-NC]W6 - 24-11\CSDLNC_DA2\CSDLNC_DA2\obj\Debug\CSDLNC_DA2.Form1.resources
+C:\Users\chane\OneDrive\Desktop\[CSDL-NC]W6 - 24-11\CSDLNC_DA2\CSDLNC_DA2\obj\Debug\CSDLNC_DA2.Properties.Resources.resources
+C:\Users\chane\OneDrive\Desktop\[CSDL-NC]W6 - 24-11\CSDLNC_DA2\CSDLNC_DA2\obj\Debug\CSDLNC_DA2.TheoDoiDonHang.resources
+C:\Users\chane\OneDrive\Desktop\[CSDL-NC]W6 - 24-11\CSDLNC_DA2\CSDLNC_DA2\obj\Debug\CSDLNC_DA2.csproj.GenerateResource.cache
+C:\Users\chane\OneDrive\Desktop\[CSDL-NC]W6 - 24-11\CSDLNC_DA2\CSDLNC_DA2\obj\Debug\CSDLNC_DA2.csproj.CoreCompileInputs.cache
+C:\Users\chane\OneDrive\Desktop\[CSDL-NC]W6 - 24-11\CSDLNC_DA2\CSDLNC_DA2\obj\Debug\CSDLNC_DA2.exe
+C:\Users\chane\OneDrive\Desktop\[CSDL-NC]W6 - 24-11\CSDLNC_DA2\CSDLNC_DA2\obj\Debug\CSDLNC_DA2.pdb
